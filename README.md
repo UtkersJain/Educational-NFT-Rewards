@@ -5,6 +5,8 @@ The Educational NFT Rewards smart contract is designed to incentivize educationa
 
 ## Contract Address
 0x9BA7997C3CBcd7a667d17f8e1E17b565cEb27125
+![image](https://github.com/user-attachments/assets/04f45536-2ae4-4298-be4f-9f302257ba13)
+
 
 ## Project Vision
 Our vision is to revolutionize education by integrating blockchain technology to provide transparent, decentralized incentives for learners. By leveraging NFTs and tokenomics, we aim to:
